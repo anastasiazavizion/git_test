@@ -1,2 +1,2 @@
 <?php
-$str = "some changes from first";
+$str = "some changes";
