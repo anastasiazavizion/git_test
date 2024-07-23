@@ -1,2 +1,2 @@
 <?php
-echo "fix2";
+echo "fix2 test";
